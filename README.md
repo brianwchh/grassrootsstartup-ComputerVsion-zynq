@@ -1,4 +1,5 @@
 # grassrootsstartup-ComputerVsion-zynq project sharing
+# deploy computer vision algorithm on FPGA
 
 demo of what will you achieve after this tutorial : 
 https://youtu.be/avOE0U4dMCY
