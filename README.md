@@ -4,7 +4,7 @@
 demo of what will you achieve after this tutorial : 
 https://youtu.be/avOE0U4dMCY
 
-# 鄧麗君《中華民國頌》 https://youtu.be/SuCMUFsOKco
+# a beatiful song 鄧麗君《中華民國頌》 https://youtu.be/SuCMUFsOKco   God gives each generation their mission, fighting for democracy is ours !!! 
 https://github.com/brianwchh/decentrialized-social-networking-software-system_1
 https://github.com/brianwchh/grassrootsstartup
 
