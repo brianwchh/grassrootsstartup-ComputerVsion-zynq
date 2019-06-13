@@ -3,10 +3,10 @@
 -----------------------------------------------------------------------------------------
 # demo of what you will achieve after this tutorial : https://youtu.be/avOE0U4dMCY
 -----------------------------------------------------------------------------------------
-# a beatiful song 鄧麗君《中華民國頌》 https://youtu.be/SuCMUFsOKco   God gives each generation their mission, fighting for democracy is ours !!! 
+# a beatiful song 鄧麗君《中華民國頌》 https://youtu.be/SuCMUFsOKco   God gives each generation their mission, fighting for democracy for china is ours !!! 
 https://github.com/brianwchh/decentrialized-social-networking-software-system_1
 https://github.com/brianwchh/grassrootsstartup
------------------------------------------------------------------------------------------
+
 # tutorial plan 
 ---Let’s read the papers together 
 
