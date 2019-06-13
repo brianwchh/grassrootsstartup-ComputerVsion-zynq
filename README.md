@@ -1,8 +1,7 @@
 # grassrootsstartup-ComputerVsion-zynq project sharing
 # deploy computer vision algorithm on FPGA
 
-demo of what will you achieve after this tutorial : 
-https://youtu.be/avOE0U4dMCY
+# demo of what will you achieve after this tutorial : https://youtu.be/avOE0U4dMCY
 
 # a beatiful song 鄧麗君《中華民國頌》 https://youtu.be/SuCMUFsOKco   God gives each generation their mission, fighting for democracy is ours !!! 
 https://github.com/brianwchh/decentrialized-social-networking-software-system_1
