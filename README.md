@@ -10,13 +10,21 @@ https://github.com/brianwchh/grassrootsstartup
 
 # tutorial plan 
 ---Let’s read the papers together 
+
 ---Design algorithm on computer using C++
+
 ---System diagram design 
+
 ---Write Verilog code for each module & simulation 
+
 ---FPGA on-board debugging (zynq 7020)
+
 ---Embedded linux os bringing up
+
 ---Writing linux device driver 
+
 ---Design applications on arm and linux computer for demo
+
 
 
 ## episode 1 : overview of this tutorial 
