@@ -35,4 +35,7 @@ https://youtu.be/efzayar-zvY
 ## episode 3 : algorithm in C++
 https://youtu.be/487XZP8zG_E
 
+## episode 4 : census transform verilog code
+https://youtu.be/mpApCUjlMR8
+
 ## updating ..... 
