@@ -38,6 +38,12 @@ https://youtu.be/mpApCUjlMR8
 ## updating ..... 
 
 
+
+
+
+
+
+
 ## something about China
 ### a beatiful song 鄧麗君《中華民國頌》 https://youtu.be/SuCMUFsOKco   God gives each generation their mission, fighting for democracy for china is ours !!! 
 https://github.com/brianwchh/decentrialized-social-networking-software-system_1
@@ -48,6 +54,8 @@ Spare just a few seconds to take a closely look at what has been happening to Ho
 
 #### They may make me poor, but never a coward, not a chance !!! How about you ?
 
-https://southpark.cc.com/full-episodes/s23e02-band-in-china       banned in China 
-https://southpark.cc.com/full-episodes/s23e03-shots               Fuck the Chinese Government ! 
+##### banned in China 
+https://southpark.cc.com/full-episodes/s23e02-band-in-china   
+##### Fuck the Chinese Government ! 
+https://southpark.cc.com/full-episodes/s23e03-shots               
 
