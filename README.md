@@ -23,19 +23,10 @@
 
 -------------------------------------------------------------------------------------------
 
-## episode 1 : overview of this tutorial 
-https://youtu.be/bsx7o-PnaLA
+## episode 1 : video tutorial list
+https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
-## episode 2 : the cost function & dynamic programming    
-https://youtu.be/efzayar-zvY
 
-## episode 3 : algorithm in C++
-https://youtu.be/487XZP8zG_E
-
-## episode 4 : census transform verilog code
-https://youtu.be/mpApCUjlMR8
-
-## updating ..... 
 
 
 
