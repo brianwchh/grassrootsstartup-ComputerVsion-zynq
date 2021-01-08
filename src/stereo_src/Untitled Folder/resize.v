@@ -1,0 +1,1 @@
+// no need resize , config the sensor to output 640*480 resolution derectly !!!!

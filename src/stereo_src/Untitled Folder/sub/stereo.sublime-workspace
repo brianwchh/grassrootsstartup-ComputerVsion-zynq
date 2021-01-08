@@ -1,0 +1,1739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sof",
+				"sof_dly"
+			],
+			[
+				"shif",
+				"shiftRegArray_sclkrate"
+			],
+			[
+				"median",
+				"median_out_reg_sclkrate"
+			],
+			[
+				"shi",
+				"shiftRegArray"
+			],
+			[
+				"line",
+				"linebuffer4_out"
+			],
+			[
+				"disp",
+				"disparity"
+			],
+			[
+				"data",
+				"data_to_line_buffer_reg_sclkrate"
+			],
+			[
+				"dis",
+				"disparity"
+			],
+			[
+				"Ima",
+				"IMAGE_WIDTH-15"
+			],
+			[
+				"di",
+				"disparity"
+			],
+			[
+				"deb",
+				"debug_dataCnt"
+			],
+			[
+				"M",
+				"MCLK"
+			],
+			[
+				"dispa",
+				"disparity"
+			],
+			[
+				"DIS",
+				"DISPARITY_WIDTH"
+			],
+			[
+				"sf",
+				"sof_dly2"
+			],
+			[
+				"stage",
+				"stage2_max_o"
+			],
+			[
+				"med",
+				"med_out"
+			],
+			[
+				"max",
+				"max_out"
+			],
+			[
+				"A0",
+				"A0A1_min"
+			],
+			[
+				"A0A",
+				"A0A1_max"
+			],
+			[
+				"A",
+				"A1"
+			],
+			[
+				"int",
+				"intVal0"
+			],
+			[
+				"medi",
+				"medianFilterOut"
+			],
+			[
+				"taps",
+				"taps"
+			],
+			[
+				"pix",
+				"pixelEN"
+			],
+			[
+				"pixle",
+				"pixelEN_dly1"
+			],
+			[
+				"last",
+				"last2_indx"
+			],
+			[
+				"top",
+				"top2_indx"
+			],
+			[
+				"tap",
+				"taps_d1"
+			],
+			[
+				"top2_",
+				"top2_tmp"
+			],
+			[
+				"to",
+				"top1_indx"
+			],
+			[
+				"end",
+				"endgenerate"
+			],
+			[
+				"lin",
+				"linebuffer0_out"
+			],
+			[
+				"inpu",
+				"INPUTDATAWID-1"
+			],
+			[
+				"IN",
+				"INPUTDATAWID-1"
+			],
+			[
+				"io",
+				"iowrite32"
+			],
+			[
+				"ste",
+				"stereo_virtual_address"
+			],
+			[
+				"vdma",
+				"VDMA1_virtual_address"
+			],
+			[
+				"stere",
+				"stereo_control_address"
+			],
+			[
+				"VDMA1",
+				"VDMA1_MM2S_FB_PHY"
+			],
+			[
+				"VDMA0",
+				"VDMA0_MM2S_FB_PHY"
+			],
+			[
+				"M_AX",
+				"M_AXIS_ACLK"
+			],
+			[
+				"tra",
+				"transmit_data_valid"
+			],
+			[
+				"PIX",
+				"PIXEL_EN_div2"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"pixel",
+				"pixelEN"
+			],
+			[
+				"sta",
+				"state2"
+			],
+			[
+				"state",
+				"state1"
+			],
+			[
+				"ne",
+				"next_state"
+			],
+			[
+				"st",
+				"state1"
+			],
+			[
+				"wir",
+				"wirte_fifo_full"
+			],
+			[
+				"pxiel",
+				"PIXEL_EN_div2"
+			],
+			[
+				"pixe",
+				"pixelEN_cnt"
+			],
+			[
+				"for",
+				"forever"
+			],
+			[
+				"m00",
+				"m00_axis_tuser"
+			],
+			[
+				"fifo_out",
+				"fifo_out_data_cnt"
+			],
+			[
+				"piex",
+				"pixel_en_div4_wire"
+			],
+			[
+				"tva",
+				"tvalid_wire"
+			],
+			[
+				"P",
+				"PIXEL_EN_div2"
+			],
+			[
+				"strea",
+				"STREAM_WIDTH"
+			],
+			[
+				"fifo",
+				"fifo_out"
+			],
+			[
+				"S_",
+				"S_AXIS_ACLK"
+			],
+			[
+				"stre",
+				"STREAM_WIDTH"
+			],
+			[
+				"S",
+				"S_AXIS_ACLK"
+			],
+			[
+				"axi",
+				"axi_clk_reg"
+			],
+			[
+				"ma",
+				"matchingcost"
+			],
+			[
+				"matc",
+				"matching_cost_sof_out"
+			],
+			[
+				"write",
+				"writeRegisterValue"
+			],
+			[
+				"park",
+				"PARK_PTR_REG"
+			],
+			[
+				"read",
+				"readRegisterValue"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"left",
+				"left_image_file"
+			],
+			[
+				"mm",
+				"mm2s_fsync"
+			],
+			[
+				"cpu",
+				"cpu_data_is_ready"
+			],
+			[
+				"mm2s",
+				"mm2s_fsyn_reg"
+			],
+			[
+				"pex",
+				"PIXEL_EN"
+			],
+			[
+				"rst",
+				"RSTN"
+			],
+			[
+				"LPD",
+				"LPDi"
+			],
+			[
+				"CPD",
+				"CPDi_1D"
+			],
+			[
+				"MAT",
+				"MATCH_COST_OUTPUT_WID_1D"
+			],
+			[
+				"M_",
+				"M_AXIS_ARESETN"
+			],
+			[
+				"read_addre",
+				"read_address_wire"
+			],
+			[
+				"M_AXIS_R",
+				"M_AXIS_ARESETN"
+			],
+			[
+				"image_da",
+				"image_data_3"
+			],
+			[
+				"image",
+				"image_data_1"
+			],
+			[
+				"fif",
+				"fifo_output_data_valid_reg"
+			],
+			[
+				"s_a",
+				"S_AXIS_ACLK"
+			],
+			[
+				"right",
+				"right_stream"
+			],
+			[
+				"print",
+				"printEN"
+			],
+			[
+				"FIFO",
+				"READ_FIFO_EMPTY"
+			],
+			[
+				"prog",
+				"prog_empty"
+			],
+			[
+				"S_A",
+				"S_AXIS_ARESETN"
+			],
+			[
+				"read_fi",
+				"READ_FIFO_EMPTY"
+			],
+			[
+				"FI",
+				"WRITE_FIFO_FULL"
+			],
+			[
+				"fifo_is",
+				"fifo_is_empty"
+			],
+			[
+				"s00_axis",
+				"s00_axis_tvalid"
+			],
+			[
+				"img",
+				"IMAGE_WIDTH"
+			],
+			[
+				"rowc",
+				"rowCnt"
+			],
+			[
+				"M_A",
+				"M_AXIS_ACLK"
+			],
+			[
+				"IM",
+				"IMAGE_WIDTH-1"
+			],
+			[
+				"para",
+				"parameter"
+			],
+			[
+				"fi",
+				"FIFO-EMPTY"
+			],
+			[
+				"col",
+				"colCnt"
+			],
+			[
+				"colc",
+				"colCnt_wire"
+			],
+			[
+				"row",
+				"rowCnt"
+			],
+			[
+				"eol",
+				"eol_reg"
+			],
+			[
+				"INp",
+				"INPUTDATAWID-2"
+			],
+			[
+				"I",
+				"INPUTDATAWID-2"
+			],
+			[
+				"min_in",
+				"min_Indx_stg2"
+			],
+			[
+				"min_i",
+				"min_Indx_stg0"
+			],
+			[
+				"Out",
+				"OUTPUTDATAWID-1"
+			],
+			[
+				"DI",
+				"DISP_WIDTH-1"
+			],
+			[
+				"DIs",
+				"DISP_WIDTH"
+			],
+			[
+				"Disp",
+				"DISP_WIDTH"
+			],
+			[
+				"Inu",
+				"INPUTDATAWID-1"
+			],
+			[
+				"DIsp",
+				"Disparity_Left"
+			],
+			[
+				"Ma",
+				"MAXDISPARITY-k-1"
+			],
+			[
+				"fd_",
+				"fd_LPDiLeft"
+			],
+			[
+				"L",
+				"LPDiLeft"
+			],
+			[
+				"LP",
+				"LPDiRight"
+			],
+			[
+				"SOF",
+				"SOF_atPxy"
+			],
+			[
+				"MA",
+				"MAXDISPARITY"
+			],
+			[
+				"Lpd",
+				"LPDI_WIDTH-1"
+			],
+			[
+				"nei",
+				"neighborConstrainOutPut"
+			],
+			[
+				"Max",
+				"MAXDISPARITY-1"
+			],
+			[
+				"CPDi_d",
+				"CPDi_1D_dly"
+			],
+			[
+				"LDP",
+				"LPDI_WIDTH"
+			],
+			[
+				"ge",
+				"generate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma.c",
+			"settings":
+			{
+				"buffer_size": 21033,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/simIP_tb_compile.do",
+			"settings":
+			{
+				"buffer_size": 2480,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LPDiLeftVolumn.v",
+			"settings":
+			{
+				"buffer_size": 88098,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/remove_noise.v",
+			"settings":
+			{
+				"buffer_size": 27195,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/finalDisparity_frommodelsim.txt",
+			"settings":
+			{
+				"buffer_size": 152868,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/fillinHoles.v",
+			"settings":
+			{
+				"buffer_size": 8005,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LeftRightCheck.v",
+			"settings":
+			{
+				"buffer_size": 3816,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/medianFilter.v",
+			"settings":
+			{
+				"buffer_size": 7347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/median3by3kernel.v",
+			"settings":
+			{
+				"buffer_size": 3056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/topModule.v",
+			"settings":
+			{
+				"buffer_size": 9910,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0.v",
+			"settings":
+			{
+				"buffer_size": 8409,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_S00_AXI.v",
+			"settings":
+			{
+				"buffer_size": 20801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/tripleSorter.v",
+			"settings":
+			{
+				"buffer_size": 1533,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/top/simIP_tb.v",
+			"settings":
+			{
+				"buffer_size": 24770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "generate \n	// stage 0\n	for(k=0;k<4;k=k+1) \n	begin\n		always@(posedge clk)\n		if(en)\n		begin\n			if(taps[2*k] < taps[2*k+1])\n			begin\n				min_tmpReg_stg0[k] <= taps[2*k] ;\n				min_tmpReg_stg0_indx[k] <= 2*k ;\n			end\n			else begin\n				min_tmpReg_stg0[k] <= taps[2*k+1] ;\n				min_tmpReg_stg0_indx[k] <= 2*k + 1;\n			end\n			min_tmpReg_stg0[4] <= taps[8] ;\n			min_tmpReg_stg0_indx[4] <= 8;\n		end\n	end\n\n	// stage 1\n	for(k=0;k<2;k=k+1) \n	begin\n		always@(posedge clk)\n		if(en)\n		begin\n			if(min_tmpReg_stg0[2*k] < min_tmpReg_stg0[2*k+1])\n			begin\n				min_tmpReg_stg1[k] <= min_tmpReg_stg0[2*k] ;\n				min_tmpReg_stg1_indx[k] <= 2*k ;\n			end\n			else begin\n				min_tmpReg_stg1[k] <= min_tmpReg_stg0[2*k+1] ;\n				min_tmpReg_stg1_indx[k] <= 2*k + 1;\n			end\n			min_tmpReg_stg1[2] <= min_tmpReg_stg0[4] ;\n			min_tmpReg_stg1_indx[2] <= 4;\n		end \n	end\n\n	// stage 2\n	for(k=0;k<1;k=k+1) \n	begin\n		always@(posedge clk)\n		if(en)\n		begin\n			if(min_tmpReg_stg1[2*k] < min_tmpReg_stg1[2*k+1])\n			begin\n				last1 <= taps[2*k] ;\n				last1_indx <= 2*k ;\n				last2_tmp <= taps[2*k+1] ;\n				last2_indx_tmp <= 2*k+1 ;\n			end\n			else begin\n				last1 <= taps[2*k+1] ;\n				last1_indx <= 2*k+1 ;\n				last2_tmp <= taps[2*k] ;\n				last2_indx_tmp <= 2*k ;\n			end\n			min_oddElement_dly <= min_tmpReg_stg1[2] ;\n			min_oddElement_indx_dly <= 2;\n		end\n\n	// final stage of finding last2 index \n	always@(posedge clk)\n	if(en)\n	begin\n		if(min_oddElement_dly < last2_tmp)\n		begin\n			last2  <= min_oddElement_dly ;\n			last2_indx <= min_oddElement_indx_dly ;\n		end\n		else begin\n			last2 <= last2_tmp ;\n			last2_indx <= last2_indx_tmp ;\n		end\n	end\n\nendgenerate",
+			"settings":
+			{
+				"buffer_size": 1607,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_M00_AXIS.v",
+			"settings":
+			{
+				"buffer_size": 13288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_S00_AXIS.v",
+			"settings":
+			{
+				"buffer_size": 10648,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/brian/PRO/MyPro/StereoFPGA/demo_input/08_vdma_test/vdma_test.srcs/sources_1/imports/cmos_in_stream/cmos_in_axi4s.v",
+			"settings":
+			{
+				"buffer_size": 5318,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src"
+	],
+	"file_history":
+	[
+		"/media/brian/PRO/LProjs/fpga-median/rtl/median.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/finalDisparity_frommodelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/simIP_tb_simulate.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/colorMapLut.COE",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/simIP_tb_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.sim/sim_1/behav/simIP_tb_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.sim/sim_1/behav/simIP_tb_simulate.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/removeNoise.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/compile.sh",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/build/sample/image/colorMapLut.txt",
+		"/home/brian/.cache/.fr-25Mc9X/stereo_src/medianFilter.v",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/sample/image/stereosgm_image.cpp",
+		"/media/brian/PRO/MyPro/StereoFPGA/demo_input/08_vdma_test/vdma_test.srcs/sources_1/new/top.v",
+		"/media/brian/Files/xilinxFiles/ov5640_dual/ov5640_dual.srcs/sources_1/new/top.v",
+		"/media/brian/Files/xilinxFiles/ov5640_dual/ov5640_dual.srcs/sources_1/bd/system/hdl/system.v",
+		"/media/brian/Files/xilinxFiles/ov5640_dual/ov5640_dual.srcs/sources_1/bd/system/hdl/system_wrapper.v",
+		"/media/brian/Files/xilinxFiles/ov5640_dual/ov5640_dual.srcs/sources_1/imports/cmos_in_stream/cmos_in_axi4s.v",
+		"/media/brian/Files/xilinxFiles/ov5640_dual/ov5640_dual.srcs/sources_1/imports/ov5640/reg_config.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_M00_AXIS_bak_8bitgray_output.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/matching_cost.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LPDiLeftVolumn.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LPDiRightVolumn.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/WTA.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LeftRightCheck.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/top/simIP_tb.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/readDispFromMemery.tcl",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/disparity_from_fpga.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/config_vdma.tcl",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/init.tcl",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/write_image_to_mem.tcl",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/readScopFile.tcl",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/imgdata_forFPGA.txt",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/build/sample/image/rightImgdata.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_M00_AXIS.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/driver/stereo_driver.c",
+		"/media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma.c",
+		"/media/brian/PRO/MyPro/StereoFPGA/driver/my_vtc.c",
+		"/media/brian/PRO/MyPro/StereoFPGA/driver/my_dynclk.c",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/sample/image/stereo_cpu.cpp",
+		"/media/brian/winFILE/Myfiles/vcou/linuxdriver/src/simpMod.c",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/TimeGen.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_S00_AXIS.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/driver/vhdmi.c",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/build/sample/image/leftImgdata.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/chipscope_data.csv",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/writeChipeScope_data.txt",
+		"/home/brian/vivado_project/my_hw_ila_data_file/waveform.csv",
+		"/home/brian/.cache/.fr-eeZk0i/waveform.csv",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/topModule.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/census_transform.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_S00_AXI.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/leftImageDataFromModelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/left_image.txt",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/build/sample/image/imgdata_forFPGA.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/tcl/leftImgdata_forFPGA.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LeftRightCheck/finalDisparity_frommodelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LeftRightCheck/top/simIP_tb.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/plot_result.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/rightImageDataFromModelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/ls",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/runall.sh",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/src/TimeGen.v",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/src/SinCosSynth.v",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/src/CICdeci.v",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/srcfile/REC/CntlWdFSM_RX.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/simulate.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/sub/untitled",
+		"/media/brian/PRO/MyPro/LDWS-arm/hls/rgb20xffrgb/rgb20xffrgb/solution1/syn/verilog/rgb20xffrgb.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LeftRightCheck/simIP_tb_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LeftRightCheck/leftDisp_wta_frommodelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiRightVolumn/top/simIP_tb.v",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/src/Fir.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiRightVolumn/LPDiRight_frommodelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiRightVolumn/LPDiLeft_frommodelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiRightVolumn/vsim.wlf",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiRightVolumn/simIP_tb_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/simulate.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/top/simIP_tb.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/lpdifrommodelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/cpdifrommodelsim.txt",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/build/sample/image/LPDi_CPU.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/simIP_tb_simulate.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/wave.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/simIP_tb_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/simulate.log",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/simulate.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/sim/simIP_tb.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/cpdifrommodelsim.txt",
+		"/media/brian/PRO/LProjs/stereos/Semi-Global-Matching_gpu/libSGM/sample/image/convertModelsimImageToCV.cpp",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/sim_LPDiLeftVolumn.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/sim_LPDiLeftVolumn_simulate.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/sim_LPDiLeftVolumn_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/rm",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/simIP_tb.udo",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/simIP_tb_wave.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/LPDiLeftVolumn/sim_LPDILeftVolumn.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/simIP_tb_compile.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.sim/sim_1/behav/simulate.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/census_transform_right.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/census_transform_left.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/simIP_tb_simulate.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/matchingCost/leftImageDataFromModelsim.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/census_transform/savedata.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/census_transform/runall.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/census_transform/simulate.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.sim/sim_1/behav/simIP_tb_wave.do",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.sim/sim_1/behav/compile.sh",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/sim/leftImgdata.txt",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.sim/sim_1/behav/savedata.txt",
+		"/media/brian/PRO/MyPro/LDWS-arm/ip_repo/rgb2ffrgb_1.0/hdl/tb.v",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/srcfile/RESIM/RESFPTOP_tb.sv",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/srcfile/RECSIM/RECSFPTOP_tb.sv",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/sim/simIP_tb.sv",
+		"/media/brian/PRO/MyPro/LDWS-arm/ip_repo/rgb2ffrgb_1.0/hdl/test.sv",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/medianFilter.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/IP/ip_repo/stereo_1.0/hdl/stereo_src/matching_cost.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/IP/ip_repo/stereo_1.0/hdl/stereo_src/census_transform.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/sim/simIP.sv",
+		"/media/brian/PRO/MyPro/StereoFPGA/IP/ip_repo/stereo_1.0/hdl/stereo_src/pathscan_cost.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LPDivolumn.v",
+		"/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LPDvolumn.v",
+		"/media/brian/PRO/LProjs/humanPoseEstimate/caffe_rtpose/Makefile.config",
+		"/media/brian/PRO/LProjs/humanPoseEstimate/caffe_rtpose/CMakeLists.txt",
+		"/media/brian/PRO/LProjs/humanPoseEstimate/caffe_rtpose/Makefile.config.Ubuntu14.example",
+		"/media/brian/PRO/LProjs/humanPoseEstimate/caffe_rtpose/install_caffe_and_cpm.sh",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/srcfile/RE/SFPTxDatSel.v",
+		"/media/brian/PRO/MyPro/ModelsimTemplate/srcfile/RE/RESFPTOP.v"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"i"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"filtered_out_reg",
+			"sum_8_neighbours",
+			"shiftRegArray",
+			"Lr1PXplus1_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr2",
+			"Lr3",
+			"LPDi_2DArray_reg_sclkrate",
+			"Lr0PXminus1_YDi_2DArray_Reg_sclkrate",
+			"8'hBE",
+			"8'hFF",
+			"0xFF00",
+			"rowCnt_sclkrate",
+			"BlkRamAddressA",
+			"slv_reg2",
+			"colorMapLut",
+			"mean_of_neighbours_sclkrate",
+			"data_to_line_buffer",
+			"fill_in_data",
+			"data_tapArray_reg_sclkrate",
+			"rowCnt_sclkrate",
+			"data_filled",
+			"START_ONE_FRAME",
+			"colCnt_sclkrate______X__0__X__1__x____",
+			"Lr2PXminus1_Yminus1Di_sclkrate",
+			"Lr1LineBufferOut",
+			"INPUT_STREAM_VALID",
+			"dispOutput_left",
+			"dispOutput_left_valid",
+			"clk",
+			"disparity_left",
+			"taps_d1",
+			"top1",
+			"top2",
+			"oddElement_indx_dly",
+			"oddElement_dly",
+			"max_tmpReg_stg1",
+			"max_tmpReg_stg0",
+			"oddElement_dly",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg",
+			"r2_neighborConstrainOutPut",
+			"r2_PreventAddOverFlow",
+			"Lr2PDi_minTemp2_hclkrate",
+			"Lr2PDi_minTemp1_hclkrate",
+			"Lr2PDi_minTemp0_hclkrate",
+			"Lr2PX_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr2PX_YminusDi_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr2PX_Yminus1Di_2dArray_wire_DiAdd0",
+			"Lr2PX_Yminus1Di_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr3PXplus1_Yminus1Di_min",
+			"Lr3PX_Yminus1Di_min",
+			"Lr3PX_Yminus1Di_sclkrate",
+			"Lr2PX_Yminus1Di_2dArray_wire",
+			"Lr2PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr2PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr2PX_Yminus1Di_min",
+			"Lr2LineBufferOut",
+			"Lr2PXminus1_Yminus1Di_sclkrate",
+			"Lr2PX_Yminus1Di_sclkrate",
+			"Lr2PXplus1_Yminus1Di_sclkrate",
+			"Lr2PXminus1_YDi_1dArray_wire",
+			"r1_neighborConstrainOutPut",
+			"r1_PreventAddOverFlow",
+			"r2_neighborConstrainOutPut",
+			"r2_PreventAddOverFlow",
+			"r1_PreventAddOverFlow",
+			"Lr2PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr2PX_Yminus1Di_min",
+			"Lr2PXminus1_Yminus1Di_min",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg5",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg4",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg3",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg0",
+			"Lr1PDi_minTemp2_hclkrate",
+			"Lr1PDi_minTemp1_hclkrate",
+			"Lr1PDi_minTemp0_hclkrate",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr1PXminus1_YminusDi_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire_DiAdd0",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr1PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr1PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr1PXminus1_Yminus1Di_min",
+			"Lr1LineBufferOut",
+			"Lr1PXminus1_Yminus1Di_sclkrate",
+			"Lr1PXplus1_Yminus1Di_sclkrate",
+			"Lr1PXminus1_YDi_1dArray_wire",
+			"Lr1PX_Yminus1Di_sclkrate",
+			"Lr2PX_Yminus1Di_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_sclkrate",
+			"Lr1PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr1PXminus1_YDi_min",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg5",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg4",
+			"Lr1PXminus1_YminusDi_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_YminusDi_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_YminusDi_2dArray_computeMin_temp_stg0",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg3",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg0",
+			"Lr1PXminus1_YDi_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr1PXminus1_YDi_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr1PXminus1_YDi_2dArray_wire_DiAdd0",
+			"Lr1PXminus1_YDi_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire",
+			"Lr1PXminus1_YDi_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_sclkrate",
+			"Lr1PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr1PXminus1_YDi_min",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg5",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg4",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg3",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg0",
+			"Lr1PXminus1_YDi_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_2DArray_Reg_sclkrate",
+			"Lr1PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr1PXminus1_YDi_1dArray_wire",
+			"Lr1LineBufferOut",
+			"Lr1PXminus1_Yminus1Di_1dArray_wire",
+			"Lr1PXminus1_YDi_1dArray_wire",
+			"Lr1PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr0PXminus1_YDi_2dArray_computeMin_temp_stg5",
+			"Lr0PXminus1_YDi_2dArray_computeMin_temp_stg4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"filtered_out_reg_sclkrate",
+			"sum_wire",
+			"shiftRegArray_sclkrate",
+			"Lr1",
+			"Lr2",
+			"8'hA0",
+			"8'hBE",
+			"0xFFFF",
+			"mean_of_neighbours",
+			"data_to_line_buffer_reg_sclkrate",
+			"data_to_line_buffer",
+			"data_watch_window_sclkrate",
+			"data_filled_sclkrate",
+			"last1",
+			"last2",
+			"min_oddElement_indx_dly",
+			"min_oddElement_dly",
+			"min_tmpReg_stg1",
+			"min_tmpReg_stg0",
+			"max_oddElement_dly",
+			"Lr3PXplus1_Yminus1Di_2dArray_computeMin_temp_stg",
+			"r3_neighborConstrainOutPut",
+			"r3_PreventAddOverFlow",
+			"Lr3PDi_minTemp2_hclkrate",
+			"Lr3PDi_minTemp1_hclkrate",
+			"Lr3PDi_minTemp0_hclkrate",
+			"Lr3PXplus1_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr3PXplus1_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr3PXplus1_Yminus1Di_2dArray_wire_DiAdd0",
+			"Lr3PXplus1_Yminus1Di_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr3PXplus1_Yminus1Di_min",
+			"Lr3PXplus1_Yminus1Di_2dArray_wire",
+			"Lr2PXplus1_Yminus1Di_2dArray_wire",
+			"Lr3PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr3PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr3PX_Yminus1Di_min",
+			"Lr3LineBufferOut",
+			"Lr3PXminus1_Yminus1Di_sclkrate",
+			"Lr3PX_Yminus1Di_sclkrate",
+			"Lr3PXplus1_Yminus1Di_sclkrate",
+			"Lr3PXminus1_YDi_1dArray_wire",
+			"r2_neighborConstrainOutPut",
+			"r2_PreventAddOverFlow",
+			"Lr2PX_Yminus1Di_min",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg5",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg4",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg3",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg2",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg1",
+			"Lr2PX_Yminus1Di_2dArray_computeMin_temp_stg0",
+			"Lr2PDi_minTemp2_hclkrate",
+			"Lr2PDi_minTemp1_hclkrate",
+			"Lr2PDi_minTemp0_hclkrate",
+			"Lr2PX_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr2PX_YminusDi_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr2PX_Yminus1Di_2dArray_wire_DiAdd0",
+			"Lr2PX_Yminus1Di_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr2PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr2PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr2PXminus1_Yminus1Di_min",
+			"Lr2LineBufferOut",
+			"Lr2PXminus1_Yminus1Di_sclkrate",
+			"Lr2PXplus1_Yminus1Di_sclkrate",
+			"Lr2PXminus1_YDi_1dArray_wire",
+			"Lr2PX_Yminus1Di_sclkrate",
+			"Lr2PX_Yminus1Di_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_min",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg5",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg4",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg0",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg3",
+			"Lr1PXminus1_YminusDi_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_YminusDi_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_YminusDi_2dArray_computeMin_temp_stg0",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr1PXminus1_YminusDi_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire_DiAdd0",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_min",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg5",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg4",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg3",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_Yminus1Di_2dArray_computeMin_temp_stg0",
+			"Lr1PXminus1_Yminus1Di_2dArray_wire",
+			"Lr1PXminus1_Yminus1Di_2DArray_Reg_sclkrate",
+			"Lr1PXminus1_Yminus1Di_1dArray_wire",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg5",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg4",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg3",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg2",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg1",
+			"Lr1PXminus1_YDi_2dArray_computeMin_temp_stg0",
+			"r1_neighborConstrainOutPut",
+			"r1_PreventAddOverFlow",
+			"Lr1PDi_minTemp2_hclkrate",
+			"Lr1PDi_minTemp1_hclkrate",
+			"Lr1PDi_minTemp0_hclkrate",
+			"Lr1PXminus1_YDi_2dArray_wire_DiMinus1_plusPENALTY1_dly1_hclkrate",
+			"Lr1PXminus1_YDi_2dArray_wire_DiMinus1_plusPENALTY1",
+			"Lr1PXminus1_YDi_2dArray_wire_DiAdd0",
+			"Lr1PXminus1_YDi_2dArray_wire_DiAdd1_plusPENALTY1",
+			"Lr1PXminus1_YDi_2dArray_wire",
+			"Lr1PX_YDi_2DArray_BeforeRegister_wire",
+			"Lr1PXminus1_YDi_2DArray_Reg_sclkrate",
+			"Lr1PXminus1_YDi_min",
+			"Lr1LineBufferOut",
+			"Lr1PXminus1_Yminus1Di_sclkrate",
+			"Lr1PX_Yminus1Di_sclkrate",
+			"Lr1PXplus1_Yminus1Di_sclkrate",
+			"Lr1PXminus1_YDi_1dArray_wire",
+			"fifo_in_data_cnt",
+			"read_fifo_in_not_match_data",
+			"pixelEN_div2_reg",
+			"dynClkAddr_phy",
+			"PiplineAddOut_sclkrate",
+			"PiplineAddStg4_sclkrate",
+			"PiplineAddStg3_sclkrate",
+			"PiplineAddStg2_sclkrate",
+			"PiplineAddStg1_sclkrate",
+			"PiplineAddStg0_sclkrate",
+			"sof_dely_sclkrate",
+			"LeftvsRightXorValue_sclkrate",
+			"leftShiftReg_sclkrate"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8103,
+								8103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5043.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/simIP_tb_compile.do",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2480,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2033,
+								2033
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LPDiLeftVolumn.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87627,
+								87627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 35989.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/remove_noise.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10650,
+								10650
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4201.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/finalDisparity_frommodelsim.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71,
+								71
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6745.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/fillinHoles.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8005,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2037,
+								2037
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/LeftRightCheck.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2045,
+								2045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/medianFilter.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5613,
+								5613
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3456.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/median3by3kernel.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2644,
+								2644
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/topModule.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9910,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7762,
+								7762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8409,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3432,
+								3432
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 3888.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_S00_AXI.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3913,
+								3913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1543.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/tripleSorter.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/moduleSims/axiStreamTop/top/simIP_tb.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 24770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3993,
+								3993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1610.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1607,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1607,
+								1607
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_M00_AXIS.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12542,
+								12542
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/stereoIP/stereoIP.hw/stereo_src/stereo_v1_0_S00_AXIS.v",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 10648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10614,
+								10614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3337.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/media/brian/PRO/MyPro/StereoFPGA/demo_input/08_vdma_test/vdma_test.srcs/sources_1/imports/cmos_in_stream/cmos_in_axi4s.v",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1589,
+								1589
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SystemVerilog/SystemVerilog.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 375.0
+	},
+	"pinned_build_system": "",
+	"project": "stereo",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
