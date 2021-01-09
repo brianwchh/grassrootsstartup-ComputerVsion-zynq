@@ -1,14 +1,14 @@
-#### for political reasons I am not able to continue my startup in peace, so I decide to share my knowledge,just in case it will be such a waste if it die with me.I am sharing this valuable project source code and tutorial for nothing in return but your "wake up" attention to what we Chinese have been suffering and what you will be suffering if you country becomes another version of "China"
+#### for political reasons I am not able to continue my startup in peace, so I decide to share my startup project knowledge,just in case it will be such a waste if it die with me.I am sharing this valuable project source code and tutorial for nothing in return but your "wake up" attention to what we Chinese have been suffering and what you will be suffering if you country becomes another version of "China"
 ### grassrootsstartup-ComputerVsion-zynq project sharing
 ### deploy computer vision algorithm on FPGA
 -----------------------------------------------------------------------------------------
 ### demo of what you will achieve after this tutorial : https://youtu.be/avOE0U4dMCY
 -----------------------------------------------------------------------------------------
 ### it includes : 
---- computer vision algorithm (stereo vision) algorithm design. 
---- deployment on FPGA (verilog HDL, modelsim simulation...）
---- linux driver 
---- deep learning applications with 3D sensor 
+--- computer vision algorithm (stereo vision) algorithm design. \
+--- deployment on FPGA (verilog HDL, modelsim simulation...）\
+--- linux driver \
+--- deep learning applications with 3D sensor \
 
 ### tutorial plan 
 ---Let’s read the papers together 
