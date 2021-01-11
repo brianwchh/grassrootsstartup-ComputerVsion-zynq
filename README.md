@@ -1,4 +1,4 @@
-##### for political reasons I am not able to continue my startup in peace, so I decide to share my startup project knowledge,just in case it will be such a waste if it die with me.I am sharing this valuable project source code and tutorial for nothing in return but your "wake up" attention to what we Chinese have been suffering and what you will be suffering if you country becomes another version of "China" \
+##### for political reasons I am not able to continue my startup in peace, so I decide to share my startup project knowledge,just in case it will be such a waste if it die with me.I am sharing this valuable project source code and tutorial for nothing in return but your "wake up" attention to what we Chinese have been suffering and what you will be suffering if you country becomes another version of "China" \ https://github.com/brianwchh/decentrialized-social-networking-software-system_1
 ##### hope that good stuff meets the right person. 
 ### grassrootsstartup-ComputerVsion-zynq project sharing
 ### deploy computer vision algorithm on FPGA
