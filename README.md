@@ -1,4 +1,4 @@
-##### for political reasons I am not able to continue my startup in peace, so I decide to share my startup project knowledge,just in case it will be such a waste if it die with me.I am sharing this valuable project source code and tutorial for nothing in return but your "wake up" attention to what we Chinese have been suffering and what you will be suffering if you country becomes another version of "China" \ https://github.com/brianwchh/decentrialized-social-networking-software-system_1
+##### for political reasons I am not able to continue my startup in peace, so I decide to share my startup project knowledge,just in case it will be such a waste if it die with me.I am sharing this valuable project source code and tutorial for nothing in return but your "wake up" attention to what we Chinese have been suffering and what you will be suffering if you country becomes another version of "China" \ \ https://github.com/brianwchh/decentrialized-social-networking-software-system_1
 ##### hope that good stuff meets the right person. 
 ### grassrootsstartup-ComputerVsion-zynq project sharing
 ### deploy computer vision algorithm on FPGA
@@ -81,7 +81,7 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 我的心就早已屬於你 \
 你是我們的夢裏水鄉 \
  \
-在深十年 \
+在深圳十年 \
 離你 麼近 \
 卻又 那麼遠 \
 很多時候 \
