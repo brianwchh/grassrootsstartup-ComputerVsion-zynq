@@ -4,7 +4,11 @@ https://github.com/brianwchh/decentrialized-social-networking-software-system_1 
 ### grassrootsstartup-ComputerVsion-zynq project sharing
 ### deploy computer vision algorithm on FPGA
 -----------------------------------------------------------------------------------------
-### demo of what you will achieve after this tutorial : https://youtu.be/avOE0U4dMCY
+### demo of what you will achieve after this tutorial : \ 
+#### https://youtu.be/avOE0U4dMCY
+#### https://www.youtube.com/watch?v=se1tIy5UWpE
+
+![alt text](https://raw.githubusercontent.com/brianwchh/grassrootsstartup-ComputerVsion-zynq/master/pics/demo0.png)
 -----------------------------------------------------------------------------------------
 ### it includes : 
 --- computer vision algorithm (stereo vision) algorithm design. \
