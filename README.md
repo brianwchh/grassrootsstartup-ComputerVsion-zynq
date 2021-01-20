@@ -34,6 +34,7 @@ https://github.com/brianwchh/decentrialized-social-networking-software-system_1 
 ## episode 1 : video tutorial list
 https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
+![alt text](https://raw.githubusercontent.com/brianwchh/zynq-VDMA-driver-StereoVisionApp/master/ipblock/ipblock.png)
 
 -----------------
 #### 家園在眼淚裡
