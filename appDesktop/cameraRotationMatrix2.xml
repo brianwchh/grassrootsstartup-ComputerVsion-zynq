@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<cameraRotationMatrix2 type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>d</dt>
+  <data>
+    9.9980141983812842e-01 -8.2697255951522726e-04
+    -1.9910725904600739e-02 7.5913291869564704e-04
+    9.9999388240786569e-01 -3.4145078789400074e-03
+    1.9913427803220689e-02 3.3987149379433876e-03 9.9979593124291932e-01</data></cameraRotationMatrix2>
+</opencv_storage>

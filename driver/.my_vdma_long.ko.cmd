@@ -1,0 +1,1 @@
+cmd_/media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_long.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_long.ko /media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_long.o /media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_long.mod.o

@@ -1,0 +1,254 @@
+XAxiVdma_WriteReg(Channel->ChanBase, XAXIVDMA_CR_OFFSET,
+	    0x00010002);
+
+XAxiVdma_WriteReg(Channel->StartAddrBase,
+		    XAXIVDMA_HSIZE_OFFSET, 3200);
+
+
+XAxiVdma_WriteReg(Channel->StartAddrBase,
+		    XAXIVDMA_STRD_FRMDLY_OFFSET,
+		    7680);
+
+
+XAxiVdma_WriteReg(Channel->StartAddrBase,
+					XAXIVDMA_START_ADDR_OFFSET +
+					Loop16 * XAXIVDMA_START_ADDR_LEN,
+					BufferAddrSet[i]);
+
+
+XAxiVdma_WriteReg(Channel->ChanBase, XAXIVDMA_CR_OFFSET,
+    0x00010003);
+
+XAxiVdma_WriteReg(Channel->StartAddrBase,
+    XAXIVDMA_VSIZE_OFFSET, 600);
+
+
+    XAxiVdma_WriteReg(InstancePtr->BaseAddr,
+			    XAXIVDMA_PARKPTR_OFFSET, 0);
+
+
+XAxiVdma_WriteReg(Channel->ChanBase, XAXIVDMA_CR_OFFSET,
+	    0x00010001)
+
+
+
+
+baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00000004           ; 
+baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00010002           ; 
+baseAddress = 0x43000050, offset = 0x00000004  , registerValue = 0x00000C80           ; 
+baseAddress = 0x43000050, offset = 0x00000008  , registerValue = 0x00001E00           ; 
+baseAddress = 0x43000050, offset = 0x0000000C  , registerValue = 0x002701C8           ; 
+baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00010003           ; 
+baseAddress = 0x43000050, offset = 0x00000000  , registerValue = 0x00000258           ; 
+baseAddress = 0x43000000, offset = 0x00000028  , registerValue = 0x00000000           ; 
+baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00010001           ; 
+
+
+
+0x43000000, 0x00000000  ,  0x00000004           ; 
+0x43000000, 0x00000000  ,  0x00010002           ; 
+0x43000050, 0x00000004  ,  0x00000C80           ; 
+0x43000050, 0x00000008  ,  0x00001E00           ; 
+0x43000050, 0x0000000C  ,  0x002701C8           ; 
+0x43000000, 0x00000000  ,  0x00010003           ; 
+0x43000050, 0x00000000  ,  0x00000258           ; 
+0x43000000, 0x00000028  ,  0x00000000           ; 
+0x43000000, 0x00000000  ,  0x00010001           ; 
+
+
+XAxiVdma_WriteReg(0x43000000, 0x00000000  ,  0x00000004);    // MM2S_VDMACR
+XAxiVdma_WriteReg(0x43000000, 0x00000000  ,  0x00010002); 
+XAxiVdma_WriteReg(0x43000000, 0x00000054  ,  0x00000C80);   // MM2S_HSIZE
+XAxiVdma_WriteReg(0x43000000, 0x00000058  ,  0x00001E00);   // MM2S_FRMDLY_STRIDE
+XAxiVdma_WriteReg(0x43000000, 0x0000005C  ,  0x002701C8);   // 5c - 98 : MM2S_START_ADDRESS
+XAxiVdma_WriteReg(0x43000000, 0x00000000  ,  0x00010003);
+XAxiVdma_WriteReg(0x43000000, 0x00000050  ,  0x00000258);   // MM2S_VSIZE
+XAxiVdma_WriteReg(0x43000000, 0x00000028  ,  0x00000000);   // PARK_PTR_REG
+XAxiVdma_WriteReg(0x43000000, 0x00000000  ,  0x00010001);
+
+
+
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x80000000           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x00000002           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x0000006C  , registerValue = 0x0000007F           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000070  , registerValue = 0x00000420           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000074  , registerValue = 0x02740274           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000060  , registerValue = 0x02580320           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000078  , registerValue = 0x03C80348           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000080  , registerValue = 0x025C0258           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x0000008C  , registerValue = 0x025C0258           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000068  , registerValue = 0x00000002           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x0000007C  , registerValue = 0x03200320           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000084  , registerValue = 0x03480348           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000088  , registerValue = 0x03200320           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000090  , registerValue = 0x03480348           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x03F7EF02           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x03F7EF06     
+
+0x43C00000,  0x00000000  ,  0x80000000           ; 
+0x43C00000,  0x00000000  ,  0x00000002           ; 
+0x43C00000,  0x0000006C  ,  0x0000007F           ; 
+0x43C00000,  0x00000070  ,  0x00000420           ; 
+0x43C00000,  0x00000074  ,  0x02740274           ; 
+0x43C00000,  0x00000060  ,  0x02580320           ; 
+0x43C00000,  0x00000078  ,  0x03C80348           ; 
+0x43C00000,  0x00000080  ,  0x025C0258           ; 
+0x43C00000,  0x0000008C  ,  0x025C0258           ; 
+0x43C00000,  0x00000068  ,  0x00000002           ; 
+0x43C00000,  0x0000007C  ,  0x03200320           ; 
+0x43C00000,  0x00000084  ,  0x03480348           ; 
+0x43C00000,  0x00000088  ,  0x03200320           ; 
+0x43C00000,  0x00000090  ,  0x03480348           ; 
+0x43C00000,  0x00000000  ,  0x03F7EF02           ; 
+0x43C00000,  0x00000000  ,  0x03F7EF06     
+
+XVtc_WriteReg(0x43C00000,  0x00000000  ,  0x80000000)  ;
+XVtc_WriteReg(0x43C00000,  0x00000000  ,  0x00000002)  ;
+XVtc_WriteReg(0x43C00000,  0x0000006C  ,  0x0000007F)  ;
+XVtc_WriteReg(0x43C00000,  0x00000070  ,  0x00000420)  ;
+XVtc_WriteReg(0x43C00000,  0x00000074  ,  0x02740274)  ;
+XVtc_WriteReg(0x43C00000,  0x00000060  ,  0x02580320)  ;
+XVtc_WriteReg(0x43C00000,  0x00000078  ,  0x03C80348)  ;
+XVtc_WriteReg(0x43C00000,  0x00000080  ,  0x025C0258)  ;
+XVtc_WriteReg(0x43C00000,  0x0000008C  ,  0x025C0258)  ;
+XVtc_WriteReg(0x43C00000,  0x00000068  ,  0x00000002)  ;
+XVtc_WriteReg(0x43C00000,  0x0000007C  ,  0x03200320)  ;
+XVtc_WriteReg(0x43C00000,  0x00000084  ,  0x03480348)  ;
+XVtc_WriteReg(0x43C00000,  0x00000088  ,  0x03200320)  ;
+XVtc_WriteReg(0x43C00000,  0x00000090  ,  0x03480348)  ;
+XVtc_WriteReg(0x43C00000,  0x00000000  ,  0x03F7EF02)  ;
+XVtc_WriteReg(0x43C00000,  0x00000000  ,  0x03F7EF06)  ;
+
+
+
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x80000000)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x00000002)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x0000006C  ,  0x0000007F)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000070  ,  0x00000420)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000074  ,  0x02740274)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000060  ,  0x02580320)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000078  ,  0x03C80348)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000080  ,  0x025C0258)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x0000008C  ,  0x025C0258)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000068  ,  0x00000002)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x0000007C  ,  0x03200320)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000084  ,  0x03480348)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000088  ,  0x03200320)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000090  ,  0x03480348)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x03F7EF02)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x03F7EF06)  ;
+
+
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00000004);    // MM2S_VDMACR
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00010002);
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000054  ,  0x00000C80);   // MM2S_HSIZE
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000058  ,  0x00001E00);   // MM2S_FRMDLY_STRIDE
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x0000005C  ,  0x002701C8);   // 5c - 98 : MM2S_START_ADDRESS
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00010003);
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000050  ,  0x00000258);   // MM2S_VSIZE
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000028  ,  0x00000000);   // PARK_PTR_REG
+	XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00010001);
+
+
+
+
+	------------------------------720p--------------------------------------------------------------------------------
+
+
+OFST_DYNCLK_CLK_L          regValues = 0x00000041
+OFST_DYNCLK_FB_L           regValues = 0x0000069A
+OFST_DYNCLK_FB_H_CLK_H     regValues = 0x00000000
+OFST_DYNCLK_DIV            regValues = 0x000020C4
+OFST_DYNCLK_LOCK_L         regValues = 0xCFAFA401
+OFST_DYNCLK_FLTR_LOCK_H    regValues = 0x00A300FF
+
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x00000002           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x0000006C  , registerValue = 0x0000007F           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000070  , registerValue = 0x00000672           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000074  , registerValue = 0x02EE02EE           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000060  , registerValue = 0x02D00500           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000078  , registerValue = 0x0596056E           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000080  , registerValue = 0x02D902D4           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x0000008C  , registerValue = 0x02D902D4           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000068  , registerValue = 0x00000002           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x0000007C  , registerValue = 0x05000500           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000084  , registerValue = 0x056E056E           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000088  , registerValue = 0x05000500           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000090  , registerValue = 0x056E056E           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x03F7EF02           ; 
+vtcbaseAddress = 0x43C00000, offset = 0x00000000  , registerValue = 0x03F7EF06           ; 
+vdma_baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00010002           ; 
+vdma_baseAddress = 0x43000050, offset = 0x00000004  , registerValue = 0x00001400           ; 
+vdma_baseAddress = 0x43000050, offset = 0x00000008  , registerValue = 0x00001E00           ; 
+vdma_baseAddress = 0x43000050, offset = 0x0000000C  , registerValue = 0x002701C8           ; 
+vdma_baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00010003           ; 
+vdma_baseAddress = 0x43000050, offset = 0x00000000  , registerValue = 0x000002D0           ; 
+vdma_baseAddress = 0x43000000, offset = 0x00000028  , registerValue = 0x00000000           ; 
+vdma_baseAddress = 0x43000000, offset = 0x00000000  , registerValue = 0x00010001           ; 
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+    Xil_Out32(DYNCLK_CONFIG_BASEADDR_VIR + OFST_DYNCLK_CLK_L          , 0x00000041 ) ;
+    Xil_Out32(DYNCLK_CONFIG_BASEADDR_VIR + OFST_DYNCLK_FB_L           , 0x0000069A ) ;
+    Xil_Out32(DYNCLK_CONFIG_BASEADDR_VIR + OFST_DYNCLK_FB_H_CLK_H     , 0x00000000 ) ;
+    Xil_Out32(DYNCLK_CONFIG_BASEADDR_VIR + OFST_DYNCLK_DIV            , 0x000020C4 ) ;
+    Xil_Out32(DYNCLK_CONFIG_BASEADDR_VIR + OFST_DYNCLK_LOCK_L         , 0xCFAFA401 ) ;
+    Xil_Out32(DYNCLK_CONFIG_BASEADDR_VIR + OFST_DYNCLK_FLTR_LOCK_H    , 0x00A300FF ) ;
+
+
+
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x80000000)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x00000002)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x0000006C  ,  0x0000007F)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000070  ,  0x00000672)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000074  ,  0x02EE02EE)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000060  ,  0x02D00500)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000078  ,  0x0596056E)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000080  ,  0x02D902D4)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x0000008C  ,  0x02D902D4)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000068  ,  0x00000002)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x0000007C  ,  0x05000500)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000084  ,  0x056E056E)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000088  ,  0x05000500)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000090  ,  0x056E056E)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x03F7EF02)  ;
+    XVtc_WriteReg(VTC_CONFIG_BASEADDR_VIR,  0x00000000  ,  0x03F7EF06)  ;
+
+ 
+    0x00000000  ,  0x00010002           ; 
+    0x00000004  ,  0x00001400           ; 
+    0x00000008  ,  0x00001E00           ; 
+    0x0000000C  ,  
+    0x00000000  ,  0x00010003           ; 
+    0x00000000  ,  0x000002D0           ; 
+    0x00000028  ,  0x00000000           ; 
+    0x00000000  ,  0x00010001           ; 
+  
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00010002);   // MM2S_VDMACR
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000054  ,  0x00001400);   // MM2S_HSIZE
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000058  ,  0x00001400);   // MM2S_FRMDLY_STRIDE    // note that here stride =  1280 * 4
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x0000005C  ,  FRAMEBUFFER_PHY1);   // 5c - 98 : MM2S_START_ADDRESS
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00010003);
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000050  ,  0x000002D0);   // MM2S_VSIZE
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000028  ,  0x00000000);   // PARK_PTR_REG
+    XAxiVdma_WriteReg(VDMA_BASEADDR, 0x00000000  ,  0x00010001);
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

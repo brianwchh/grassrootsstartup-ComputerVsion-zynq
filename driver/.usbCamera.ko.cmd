@@ -1,0 +1,1 @@
+cmd_/media/brian/PRO/MyPro/StereoFPGA/driver/usbCamera.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /media/brian/PRO/MyPro/StereoFPGA/driver/usbCamera.ko /media/brian/PRO/MyPro/StereoFPGA/driver/usbCamera.o /media/brian/PRO/MyPro/StereoFPGA/driver/usbCamera.mod.o

@@ -1,0 +1,6 @@
+/media/brian/PRO/PROJ/StereoFPGA/appDesktop/build/CMakeFiles/rebuild_cache.dir
+/media/brian/PRO/PROJ/StereoFPGA/appDesktop/build/CMakeFiles/edit_cache.dir
+/media/brian/PRO/PROJ/StereoFPGA/appDesktop/build/CMakeFiles/stereo_gpu.dir
+/media/brian/PRO/PROJ/StereoFPGA/appDesktop/build/CMakeFiles/usb_cap.dir
+/media/brian/PRO/PROJ/StereoFPGA/appDesktop/build/CMakeFiles/stereo_capture.dir
+/media/brian/PRO/PROJ/StereoFPGA/appDesktop/build/CMakeFiles/stereo_cpu.dir

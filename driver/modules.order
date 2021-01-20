@@ -1,0 +1,10 @@
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vtc.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_dynclk.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/vhdmi.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/usbCamera.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_4cali.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_4cali_long.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_old.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_long.ko
+kernel//media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_short.ko

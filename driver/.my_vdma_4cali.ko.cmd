@@ -1,0 +1,1 @@
+cmd_/media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_4cali.ko := arm-xilinx-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_4cali.ko /media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_4cali.o /media/brian/PRO/MyPro/StereoFPGA/driver/my_vdma_4cali.mod.o

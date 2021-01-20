@@ -1,0 +1,12 @@
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/rebuild_cache.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/edit_cache.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_hwAccel.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_slow.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_FPGA_camCap4Cali.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_FPGA_hardUcal_realtime.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_hwAccel_one_image.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_hwAccel_kitti.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_cpu.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_FPGA_softUcal.dir
+/media/brian/PRO/PROJ/StereoFPGA/app/build/CMakeFiles/stereo_FPGA_hardUcal.dir
