@@ -1,4 +1,5 @@
 # [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/SOSfromGEM</sub>](https://github.com/brianwchh/SOSfromGEM)
+![alt text](./images/thumbnail.png)
 ![alt text](./images/SOSfromGEM2.png)
 
 
