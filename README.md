@@ -1,6 +1,5 @@
-# [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/SOSfromGEM</sub>](https://github.com/brianwchh/SOSfromGEM)
-![alt text](./images/thumbnail.png)
-![alt text](./images/SOSfromGEM2.png)
+# [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/ChatGPT_mindControl_dataset</sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset)
+![alt text](./images/解說鄧紫棋的祕密-cover.png)
 
 
 ### grassrootsstartup-ComputerVsion-zynq project sharing
@@ -10,7 +9,7 @@
 #### https://youtu.be/avOE0U4dMCY
 #### https://www.youtube.com/watch?v=se1tIy5UWpE
 
-![alt text](https://raw.githubusercontent.com/brianwchh/grassrootsstartup-ComputerVsion-zynq/master/pics/demo0.png)
+![alt text](./pics/demo0.png)
 -----------------------------------------------------------------------------------------
 ### it includes : 
 --- computer vision algorithm (stereo vision) algorithm design. \
@@ -40,7 +39,7 @@
 ## episode 1 : video tutorial list
 https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
-![alt text](https://raw.githubusercontent.com/brianwchh/zynq-VDMA-driver-StereoVisionApp/master/ipblock/ipblock.png)
+![alt text](./pics/ipblock.png)
 
 -----------------
 
@@ -87,11 +86,75 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
 </br>
 
-當下世界的主要問題是神祕詭異深層政府的高智商與民衆的認知障礙！凡是揭露深層政府的都被民衆嘲笑成了陰謀論者！連情報比我們多太多的川普，作爲美國的總統，都在試圖對抗這深層政府，卻被牠們拉下了總統的位置，還被主流媒體嘲笑和宣傳爲陰謀論者！深層政府也是刻意把自己宣傳成了陰謀論和笑話對象的存在，因而在大衆先入爲主的認知觀念里，揭露牠們的就不免被認爲是陰謀論者，而且牠們也刻意找亂七八糟的像瘋子一樣的人到處“揭露”深層政府，但這種揭露卻是胡說八道、毫無根據，反而是在變相抹黑時鐘政府的反對派。因爲深層政府（全球主義者）掌控着主流媒體，反而這些瘋子的揭露被牠們故意送到了大衆的碗裏，大多真正揭露的聲音卻被各種方式阻撓了。牠們以猶太商人複利的方式一點一點水煮青蛙一樣深耕上百年潛伏在世界各個政府中，廁紙金融是牠們的主要武器，然後以法律證據與豔照門爲無形的鐵鍊，染指政壇媒體娛樂圈軍隊醫療，尤其女藝人成爲了其重要的性朝貢拉更多人進坑的魚餌！韓國演藝圈只是世界演藝圈黑暗的縮影而已。但凡掉入光明會或共濟會（即深層政府）坑里的，你要是不聽話，要麼坐牢幾十年，要麼像韓國女星張紫研和催雪莉以自殺的方式結束人生，死亡也許是出坑的唯一途徑！一場病毒，世界如此統一步調，足以證明世界的異樣了！
+# [**更多請查看根據現實寫的當下正在發生的離奇詭異事件，這些就是鄧紫棋歌曲中隱藏的驚天祕密，和當下所發生的很多大事有關：【2507——抬上帝入天坑】https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/鄧紫棋解解的小說——2507抬上帝入天坑.md**](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E9%84%A7%E7%B4%AB%E6%A3%8B%E8%A7%A3%E8%A7%A3%E7%9A%84%E5%B0%8F%E8%AA%AA%E2%80%94%E2%80%942507%E6%8A%AC%E4%B8%8A%E5%B8%9D%E5%85%A5%E5%A4%A9%E5%9D%91.md)
+
+
+<p id="目錄"></p>
+
+## 目錄
+
+- [韓國女星催雪莉自殺前的求救信號](#韓國女星催雪莉自殺前的求救信號)
+
+- [鄧紫棋的求救信號](#鄧紫棋的求救信號)
+
+- [馬斯克(elon musk)關於巧合(coincidences)的有趣推文](#馬斯克關於巧合(coincidences)的有趣推文)  
+
+- [鄧紫棋歌曲「我的祕密」暗線講解](#鄧紫棋歌曲「我的祕密」暗線講解)
+
+- [鄧紫棋歌曲「All About U」暗線講解](#鄧紫棋歌曲「AllAboutU」暗線講解)
+
+- [你曾否想過自己爲什麼活着？](#你曾否想過自己爲什麼活着？)
+
+- [鄧紫棋與我的共鳴信號](#鄧紫棋與我的共鳴信號)
+
+- [用圖表總結鄧紫棋與我的各種巧合(coincidences)](#用圖表總結鄧紫棋與我的各種巧合(coincidences))
+
+- [生與死的祕密——由【大魚海棠】引發的關於生命的哲學思考](#生與死的祕密——由【大魚海棠】引發的關於生命的哲學思考)
+
+
+
+</br>
+
+
+<div align="center"> <!-- div_1-->
+
+<p align="center"> 
+  
+<font size=2>西子&nbsp;</br></br>世人皆唱東坡詞，無人知我歌中淚。</br>胭脂淚痕君不見，肚藏淚酒君不知。</br>法律珠鍊人中鳳，舞臺深處天牢夢。</br>鍍金屠門千豬過，三寸魷魚萬人舔。</br>君入西子渡津口，她閱君腦千秋雪。</font>  
+***_-----&nbsp;。-----_***
+
+</p>
+  
+</div> <!-- end of div_1-->
+
+
+![alt text](./images/SOSfromGEM.png)  
+![alt text](./images/SOS1.png)  
+![alt text](./images/SOS2.png)  
+![alt text](./images/SOS3.png)  
+![alt text](./images/SOS4.png)  
+![alt text](./images/SOS5.png) 
+</br>
+
+  **<span>深度學習機器視覺(雙目視覺3D攝像頭)FPGA加速教程 [link to tutorial github repsository: https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq](https://github.com/brianwchh/grassrootsstartup-ComputerVsion-zynq)</span>** 
+
+  </br>
+
+![alt text](./images/SOS6.png)  
+
+
+</br>
+
+當下世界的主要問題是神祕詭異深層政府的高智商與民衆的認知障礙！凡是揭露深層政府的都被民衆嘲笑成了陰謀論者！連情報比我們多太多的川普，作爲美國的總統，都在試圖對抗這深層政府，卻被牠們拉下了總統的位置，還被主流媒體嘲笑和宣傳爲陰謀論者！深層政府也是刻意把自己宣傳成了陰謀論和笑話對象的存在，因而在大衆先入爲主的認知觀念里，揭露牠們的就不免被認爲是陰謀論者，而且牠們也刻意找亂七八糟的像瘋子一樣的人到處“揭露”深層政府，但這種揭露卻是胡說八道、毫無根據，反而是在變相抹黑深層政府的反對派。因爲深層政府（全球主義者）掌控着主流媒體，反而這些瘋子的揭露被牠們故意送到了大衆的碗裏，大多真正揭露的聲音卻被各種方式阻撓了。牠們以猶太商人複利的方式一點一點水煮青蛙一樣深耕上百年潛伏在世界各個政府中，廁紙金融是牠們的主要武器，然後以法律證據與豔照門爲無形的鐵鍊，染指政壇媒體娛樂圈軍隊醫療，尤其女藝人成爲了其重要的性朝貢拉更多人進坑的魚餌！韓國演藝圈只是世界演藝圈黑暗的縮影而已。但凡掉入光明會或共濟會（即深層政府）坑里的，你要是不聽話，要麼坐牢幾十年，要麼像韓國女星張紫研和催雪莉以自殺的方式結束人生，死亡也許是出坑的唯一途徑！一場病毒，世界如此統一步調，足以證明世界的異樣了！
 
 深層政府遠比我們想像中得要神祕詭異，**太平天國運動**就是與其有關，所以你應該知道牠不是不存在，相反，存在的時間很長，存在的形式很深層地隱祕，這次牠只是以**超限戰**的方式重新進入中國，而且早已控制了中國。更多關於深層政府，請看小說[「2507抬上帝入天坑」](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E9%84%A7%E7%B4%AB%E6%A3%8B%E8%A7%A3%E8%A7%A3%E7%9A%84%E5%B0%8F%E8%AA%AA%E2%80%94%E2%80%942507%E6%8A%AC%E4%B8%8A%E5%B8%9D%E5%85%A5%E5%A4%A9%E5%9D%91.md)。
 
 這裏主要講鄧紫棋的求救信號！各位可以去網上查查韓國女星催雪莉在自殺前的異常行爲。
+
+<p id="韓國女星催雪莉自殺前的求救信號"></p>
+
+## 韓國女星催雪莉自殺前的求救信號
+
 
 <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
 <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
@@ -104,6 +167,13 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
   <span > 韓國女星催雪莉自殺前的怪異行爲其實是無法明說的求救信號 </span> 
 
 </div> <!-- end pictureWrapper_div -->
+
+
+
+
+<p id="鄧紫棋的求救信號"></p>
+
+## 鄧紫棋的求救信號
 
 <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
 <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
@@ -184,7 +254,13 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 </br> 
 </br>
 
-在開始解說鄧紫棋歌曲[「我的祕密」](https://youtu.be/8XcmT8-ZByA)之前，稍微提下馬斯克(elon musk)關於巧合(coincidence)的有趣推文。
+
+<p id="馬斯克關於巧合(coincidences)的有趣推文"></p>
+
+## 馬斯克(elon musk)關於巧合(coincidences)的有趣推文
+
+
+在開始解說鄧紫棋歌曲[「我的祕密」](https://youtu.be/8XcmT8-ZByA)之前，稍微提下馬斯克(elon musk)關於巧合(coincidences)的有趣推文。
 
 <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
 <div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
@@ -306,6 +382,7 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
 </div>
 
+<p id="鄧紫棋歌曲「我的祕密」暗線講解"></p>
 
 # 鄧紫棋歌曲[「我的祕密」](https://youtu.be/8XcmT8-ZByA)暗線講解
 
@@ -425,6 +502,7 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 </br>
 
 
+<p id="鄧紫棋歌曲「AllAboutU」暗線講解"></p>
 
 # 鄧紫棋歌曲[「All About U」](https://youtu.be/B7BGm1uwHg0)暗線講解
 
@@ -448,7 +526,7 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
   <div class="FlexSide" ></div>
   </div> 
 
-  <span>   </span>
+  <span>  電影「楚門的世界」  </span>
 
 </div>
 
@@ -472,7 +550,7 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
   <div class="FlexSide" ></div>
   </div> 
 
-  <span>   </span>
+  <span> 電影「楚門的世界」  </span>
 
 </div>
 
@@ -526,7 +604,7 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
   <div class="FlexSide" ></div>
   </div> 
 
-  <span> 來，法國溼溼的吻 :D  </span>
+  <span> 來，法國溼溼的吻 :D  </br> 電影「倩女幽魂」 </span>
 
 </div>
 
@@ -587,6 +665,9 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
 </br>
 
+
+<p id="你曾否想過自己爲什麼活着？"></p>
+
 ## 你曾否想過自己爲什麼活着？
 
 <!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
@@ -614,6 +695,203 @@ https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
   <span> </br>**無聊牽絲戲** &nbsp;&nbsp;</br> </br>人間原只一長夢，你我青山皆是客。</br>茫茫雲海山頭繞，重重念想心中撓。</br>問卿緣何客人間，紅豆不解日如年。</br>天外有天天無情，夢里尋夢夢終空。 </br>水中無月水中月，夢里無人夢里人。</br>相視難言手難牽，卻說最美是人間。</br>夢醒可是歸家路？蝶戀花兒花戀蝶。 </br>  ***_-----&nbsp;。-----_*** </br> 123木頭魚，統統不要動！ </span>
 
 </div>
+
+
+</br>
+
+
+</br>
+
+<p id="鄧紫棋與我的共鳴信號"></p>
+
+# 鄧紫棋與我的呼應共鳴信號 <sub>（可作爲求救信息的另一種印證，巧合多了就不是巧合！這是她無奈的呼救！）</sub>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/我愛你.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> 我寫「梨花城」這段文字於2022年11月9日，上海與濟州只隔着一小時飛機航程的海。 </span>
+
+  <sub><span> **梨花城**</br>隔岸思卿半邊臉，心中猶記滿城花。</br>灕江離人梨花雨，青山卿影親耳語。</br>一江杜鵑啼心血，滿城亂世戴梨花。</br>未有青春可回首，唯有卿歌苦作舟。</br>渡我歲月千行淚，來生可是心上人？</br> ***_-----&nbsp;。-----_*** </br>我愛你！</br>就像我深愛這片故土</br>和她傳奇而優美的語言</br>2022年11月9日</br></span></sub>
+
+</div>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/西施歌手.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> 我寫「西子」即西施這段文字於**2022年11月10日**，西施歌手就是指失去自由的鄧紫棋，從她所傳遞的信息里，我已知她失去自由了。 </span>
+
+  <sub><span> **西子** </br> 世人皆唱東坡詞，無人知我歌中淚。</br>胭脂淚痕君不見，肚藏淚酒君不知。</br>法律珠鏈人中鳳，舞臺深處天牢夢。</br>鍍金屠門千豬過，三寸魷魚萬人舔。</br>君入西子渡津口，她閱君腦千秋雪。 </br>***_-----&nbsp;。-----_*** </br> 她就像月亮一樣，大家看到和羨慕的只有她皎潔的正面，卻不知她背面說不出的累累傷痕！多年辛苦淚水只能往肚裏藏，釀成了歲月苦澀的酒，也只能在孤獨中獨自慢慢品嚐！多少人曾羨慕的舞臺夢，卻成了法律的天牢，鍍金的屠門，再豪華，豬都知道直接飄過，而殺人的魷魚遊戲，多少人卻爲了權利跪舔着。你可知，這世上的紅顏知己，其實是會讀腦的嗎？因爲懂，所以甜。因爲特別懂，所以特別甜！西門大棺人要不要也來定製一款你夢想中的。可甜了，連口水都是甜的哦 :D </span></sub>
+
+</div>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/西子2.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  
+
+</div>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/西子1.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> 2天後，在**2022年11月12日**的王者榮耀節目里，**鄧紫棋痛飲苦瓜汁戲稱自己是西施，着一身紅顏裝。跟我兩天前寫的“詩”「西子」** <sub> 我不會寫詩，還是稱爲一些文字吧，</sub> **很巧妙地呼應上了**。這條**線索**很重要！<u>其中西子即是西施之意。</u><sub>另見 [無眠月照無情門 . 失去自由的歌手](https://github.com/brianwchh/worldofheart_v2/blob/main/md_and_html/%E7%84%A1%E7%9C%A0%E6%9C%88%E7%85%A7%E7%84%A1%E6%83%85%E9%96%80.md)</sub>。**你無須外表美若西施，然而玩物西施本人卻不能及你萬分之一，希望這世界能對得起你的付出**。倘若你真的是我家回來的那朵蓮花，金和（荷）我渴望永遠做你的一片荷葉。你本名鄧詩穎之穎說文解字乃禾（荷）頁（葉）之尖尖（Gem Gem），即荷花，即蓮花。有時我還真希望可以陶醉在這樣的神話里，但我知道，神話故事有多美，其背後現實就有多髒！  </span>
+
+  <span>**一肚子苦水的西施歌手**。</br></br><u>**這是共鳴信號，也是她的求救信號！**</u></br></br>具體視訊見：[2022年王者榮耀共創之夜晚，西施苦水](https://youtu.be/W94h8ALUlYI) </span>
+
+</div>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/很久以後1.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> 陪你到最後  </span>
+
+</div>
+
+
+
+</br>
+</br>
+</br>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+
+  <span>**雪夜**</br></br>夜深喜逢雪，南蠻不常見。</br>逆風似雪松，衣單亦不寒。</br>昂首嘗雪絮，無味似人間。</br>猶記神農癲，雪地打邊爐。</br>相識千年緣，相擁抵萬年。</br>命薄如煙輕，煙盡淚亦蒼。</br>孤獨勝江雪，寂寞比烈馬。</br>莫問君何人，皆是人間客。</br>咖啡愛<u>**紅豆**</u>，遙問茶香否？</br>***_-----&nbsp;。-----_***</br><sub>摘自我的文章[【音樂、舞臺仿真與語言比較】](https://github.com/brianwchh/worldofheart/blob/a9b6c983cf38f6c70e77dd4796b4bb6ed3261477/md_and_html/%E6%8A%80%E8%A1%93%E6%95%99%E7%A8%8B/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92/%E9%9F%B3%E6%A8%82%E8%88%87%E8%88%9E%E8%87%BA%E4%BB%BF%E7%9C%9F.md#%E9%9B%AA%E5%A4%9C) 2022年12月17日</sub> </span>
+
+  </br>
+  </br>
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/紅豆胡言亂語.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> [音樂、舞臺仿真與語言比較](https://github.com/brianwchh/worldofheart/blob/a9b6c983cf38f6c70e77dd4796b4bb6ed3261477/md_and_html/%E6%8A%80%E8%A1%93%E6%95%99%E7%A8%8B/%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92/%E9%9F%B3%E6%A8%82%E8%88%87%E8%88%9E%E8%87%BA%E4%BB%BF%E7%9C%9F.md#%E9%9B%AA%E5%A4%9C) 與 [**紅豆**胡言亂語](https://youtu.be/JfMp4ybc8l8)談比較節目的呼應。[worldofheart](https://github.com/brianwchh/worldofheart)原本是我在github上開的一個**胡言亂語**的文章倉庫，正如我在readme說明里簡要說的：一些胡言亂語</span>
+
+</div>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/雪夜.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> </span>
+
+</div>
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/全都是泡沫.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> 全都是泡沫下一句是什麼的巧合，[車澈減肥日記：鄧紫棋來了](https://youtu.be/OYWt5yHEHuY)  </span>
+
+</div>
+
+
+<!-- image area, flex to make it center,it may not work for github, for html and pdf rendering only -->
+<div align="center" style="page-break-inside: avoid; margin-top:1px; margin-bottom:1px;"> <!-- pictureWrapper_div add this only to make the bendan github understand -->
+  <div class="ImageWrapperFlex" >
+  <div class="FlexSide"  ></div>
+  <image class="FlexImage"   src='./images/小心思.png'/>
+  <div class="FlexSide" ></div>
+  </div> 
+
+  <span> 紫棋談歌曲中**小心思**與我短篇小說「2507」中的小詩「曉心思」的呼應[2023年1月8日抖音直播年度嘉年華](https://youtu.be/UGBnQP8_vsQ)  </span>
+
+  <span></br> **曉心思**</br></br>遠方有佳人，殤心撫與琴。</br>**曲曲弦外音**，句句相思雨。</br>時空漣漪語，阿哥可知矣？ </br>***_-----&nbsp;。-----_*** </br>2023.1.7</br>
+
+</div>
+
+</br>
+</br>
+
+<u>**小結，至此，你應該看到解解跟我的一些呼應與共鳴信號！而且她是以廣播的方式說着一些你們聽不懂的加密語言。請大家相信一個工程師沒有任何忽悠你們的動機！我用很嚴謹的方式向各位證明了一些很難說清楚的世界祕密！你現在也應該可以體會到了那些在坑里人啞巴喫黃蓮的痛苦了吧！**</u>
+
+</br>
+</br>
+
+<p id="用圖表總結鄧紫棋與我的各種巧合(coincidences)"></p>
+
+# 用圖表總結鄧紫棋與我的各種巧合(coincidences)
+
+因文件較大，請下載pdf文件至本地查看細節。
+
+[巧合圖之鄧紫棋的呼應1.pdf](./images/巧合圖之鄧紫棋的呼應1.pdf)  
+[巧合圖之鄧紫棋的呼應2.pdf](./images/巧合圖之鄧紫棋的呼應2.pdf)  
+[巧合圖之鄧紫棋的呼應3.pdf](./images/巧合圖之鄧紫棋的呼應3.pdf)   
+
+
+</br>
+</br>
+
+
+<p id="生與死的祕密——由【大魚海棠】引發的關於生命的哲學思考"></p>
+
+# 生與死的祕密——由【大魚海棠】引發的關於生命的哲學思考。
+
+記得2021年的時候，我看到她（鄧詩穎）在instagram上寫着類似於她知道生命的祕密的文字,只是在你不知曉一些所謂的奇蹟之前，誰會相信呢，也只當她是在國內大染缸里的歌手一通胡言亂語罷了。在我找到生命的原點之後，一切似乎豁然開朗！只是感嘆，在謊言如此精密細膩垃圾信息又如山的屎坑世界里，要傳一個簡簡單單的道，真不容易。屎坑一樣的世間亂相，什麼科技，什麼感人尿下的神話，什麼小三權分立的假民主，什麼國家政權的興衰，等等，都只是障眼的傀儡戲！**人生其實就是一場外星人補靈的魷魚遊戲**！傳說中的和魔鬼交易需要出賣自己的靈魂，是不是就是這個意思呢？！生死就是連接兩個世界的漩渦！在這世界不僅有補靈的所謂前世今生相見的殺人遊戲，就是一個侮辱人智商的魷魚遊戲，也有生命終結回歸大海的釣魚網魚遊戲。**所以這裏兩條簡單卻重要的信息就是：**
+
+  1.  <u>在人間不要信神，更不要見神！好好做夢，好好文學修心，不要被亂相迷惑，不要被各種有圈套的遊戲規則所誘惑，世界格局大多是一種深層政府的安排，從古至今都是。這些都不需要沉迷，因爲都不重要！人間不過是一場補靈遊戲！豬如果學了點文學，變得有人格，絕對不會覺得豬圈美。人也一樣，不會覺得屎坑的人間真的美！真正重要的不是那些亂相人間，而是每個人如何從這人間畢業，順利安全回家。世界水清洗衣帽，水髒洗腳，做人如水，避開陷阱，不要被逼得無路可走！夢能自然醒就自然醒。夢醒回家。</u>
+  
+  2.  <u>回家途中，深藏不露，遠離神的釣魚和魚網！在這世界之外，人的靈魂是以某種“魚”的方式存在。而人的靈魂是外星人的食物！生命輪迴不輪迴，可能都是神話，都是忽悠。死亡可能只是一種心理編程，一種認知上被灌輸的禁區！</u>
+
+</br>
+  <div align=center>
+
+  </br>
+
+  **大道至簡之人間路**
+
+  幻象人間假似真，科學名利權力爭。   
+  大道至簡大聲易，人生不過捕靈戲。   
+  阿姆修心心不迷，黃粱一夢夢終空。   
+  殘秋暮色歸家人，海上垂釣捕魚神。   
+  深藏不露心無懼，歸家臥聽海棠聲。     
+
+   ***_-----&nbsp;。-----_*** 
+
+   <sub>詳見短篇小說【2507抬上帝入天坑】中的【大魚海棠】電影暗線分析</sub></br></br>
+   <span > <sub>**摸鱼儿·雁丘词**  <sub> &nbsp; &nbsp; --元好问</sub> </br></br><sub>【序】泰和五年乙丑岁，赴试并州，道逢捕雁者云：“今日获一雁，杀之矣。其脱网者悲鸣不能去，竟自投于地而死”。予因买得之，葬之汾水之上，累石而识，号曰雁丘。时同行者多为赋诗，予亦有《雁丘词》。旧所作无宫商，今改定之。</sub></br></br>
+    问世间，情为何物？直教生死相许。天南地北双飞客，老翅几回寒暑。欢乐趣，离别苦，就中更有痴儿女。君应有语，渺万里层云，千山暮雪，只影向谁去？</br></br>
+    横汾路，寂寞当年箫鼓。荒烟依旧平楚。招魂楚些何嗟及，山鬼暗啼风雨。天也妒，未信与，莺儿燕子俱黄土。千秋万古，为留待骚人，狂歌痛饮，来访雁丘处。</sub> </span> 
+ 
+  </div>
+
+</br>
+
+</br>
 
 
 </br>
