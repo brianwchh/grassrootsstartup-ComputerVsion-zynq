@@ -1,4 +1,13 @@
 # [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/ChatGPT_mindControl_dataset</sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset)
+
+![alt text](./images/tutorialCover.png)
+![alt text](./images/dynamicProgramming.png)
+![alt text](./images/pathScan.png)
+![alt text](./images/rectifyImage.png)
+![alt text](./pics/demo0.png)
+
+
+
 ![alt text](./images/解說鄧紫棋的祕密-cover.png)
 
 
@@ -9,7 +18,7 @@
 #### https://youtu.be/avOE0U4dMCY
 #### https://www.youtube.com/watch?v=se1tIy5UWpE
 
-![alt text](./pics/demo0.png)
+
 -----------------------------------------------------------------------------------------
 ### it includes : 
 --- computer vision algorithm (stereo vision) algorithm design. \
