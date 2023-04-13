@@ -11,6 +11,14 @@
 ![alt text](./images/解說鄧紫棋的祕密-cover.png)
 
 
+# video tutorial （教程影片）
+![alt text](./images/video_tutorial_English.png)
+[Grassroots startup project sharing -- computer vision on FPGA (Zynq) tutorial](https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl)
+
+![alt text](./images/video_tutorial_Chinese.png)
+[草根創業技術分享之深度學習機器視覺FPGA加速教程](https://youtube.com/playlist?list=PL4mHdDqV3T2vn9W3HDxw2p81zcvPZY6hv)
+
+
 ### grassrootsstartup-ComputerVsion-zynq project sharing
 ### deploy computer vision algorithm on FPGA
 -----------------------------------------------------------------------------------------

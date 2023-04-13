@@ -7,7 +7,6 @@
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-#include <opencv2/contrib/contrib.hpp>
 
 
 #include "stdio.h"
@@ -18,7 +17,7 @@
 #define MAX_UCHART std::numeric_limits<unsigned char>::max()
 
 #define  disparity_size_   64
-#define PENALTY1 10
+#define PENALTY1 3
 #define PENALTY2  60
 
 
@@ -110,6 +109,192 @@ uint16_t  calMin(uint16_t  a, uint16_t b)
     else
         return a ;
 }
+
+
+void bypass_spacial_smooth_constrain_cpu(const uint8_t* d_matching_cost, uint16_t* d_scost, int width, int height){
+
+    uint16_t*    left_scan            = new uint16_t[width * height * disparity_size_];
+    uint16_t*    right_scan           = new uint16_t[width * height * disparity_size_];
+    uint16_t*    top_scan             = new uint16_t[width * height * disparity_size_];
+    uint16_t*    bottom_scan          = new uint16_t[width * height * disparity_size_];
+    uint16_t*    topleft_scan         = new uint16_t[width * height * disparity_size_];
+    uint16_t*    bottomleft_scan      = new uint16_t[width * height * disparity_size_];
+    uint16_t*    topright_scan        = new uint16_t[width * height * disparity_size_];
+    uint16_t*    bottomright_scan     = new uint16_t[width * height * disparity_size_];
+
+     uint16_t minPre = 0;
+     uint8_t  D_pre_min = 0;
+     uint16_t  Lpr_minus1_DiMinus1 , Lpr_minus1_DiPlus1, Lpr_minus1_DiPlus0 ;
+
+     //*****************************  left scan **************************************
+
+      for(int r=0; r<height; r++)
+          for(int c=0; c<width; c++)
+          {
+
+
+                      int  volPtr =  r * width * disparity_size_ +  c * disparity_size_ ;
+
+                      for(int d=0; d< disparity_size_; d++ )
+                      {
+                          /* according to the previous neighbor's D_pre_min,applied penalty to current cost matching and update them */
+
+                          left_scan[volPtr + d]  =  (uint16_t)d_matching_cost[volPtr + d] ;
+
+                       }
+          }
+
+/*
+            for other path scan, you can implement yourself to have some fun
+
+*/
+
+
+        // depth wise add
+        for( int r = 0 ; r < height ; r++)
+            for(int c=0; c< width ; c++)
+            {
+                    int volPtr = r * width * disparity_size_ + c * disparity_size_ ;
+                    for(int d=0; d< disparity_size_; d++)
+                    {
+//                        d_scost[volPtr + d ] =  left_scan[volPtr + d]  +  right_scan[volPtr + d] + top_scan[volPtr + d]  +  bottom_scan[volPtr + d]  + topleft_scan[volPtr + d] + topright_scan[volPtr + d] + bottomleft_scan[volPtr+d] + bottomright_scan[volPtr+d];
+                        d_scost[volPtr + d ] =  left_scan[volPtr + d]  ;   // +   top_scan[volPtr + d]    + topleft_scan[volPtr + d] + topright_scan[volPtr + d]  ;
+
+                    }
+            }
+
+        delete[]    left_scan         ;
+        delete[]    right_scan        ;
+        delete[]    top_scan          ;
+        delete[]    bottom_scan       ;
+        delete[]    topleft_scan      ;
+        delete[]    bottomleft_scan   ;
+        delete[]    topright_scan     ;
+        delete[]    bottomright_scan  ;
+
+}
+
+
+void spacial_smooth_constrain_cpu(const uint8_t* d_matching_cost, uint16_t* d_scost, int width, int height)
+{
+    uint16_t*    left_scan            = new uint16_t[width * height * disparity_size_];
+    uint16_t*    right_scan           = new uint16_t[width * height * disparity_size_];
+    uint16_t*    top_scan             = new uint16_t[width * height * disparity_size_];
+    uint16_t*    bottom_scan          = new uint16_t[width * height * disparity_size_];
+    uint16_t*    topleft_scan         = new uint16_t[width * height * disparity_size_];
+    uint16_t*    bottomleft_scan      = new uint16_t[width * height * disparity_size_];
+    uint16_t*    topright_scan        = new uint16_t[width * height * disparity_size_];
+    uint16_t*    bottomright_scan     = new uint16_t[width * height * disparity_size_];
+
+     uint16_t minPre = 0;
+     uint8_t  D_pre_min = 0;
+     uint16_t  Lpr_minus1_DiMinus1 , Lpr_minus1_DiPlus1, Lpr_minus1_DiPlus0 ;
+
+     //*****************************  left scan **************************************
+
+      for(int r=0; r<height; r++)
+          for(int c=0; c<width; c++)
+          {
+              int volPtr = r * width * disparity_size_ + c * disparity_size_ ;
+
+              if(c == 0)              // ------------------- first column points ---------------------------------------------------
+              {
+                  /* find the minimum value, since no preceeding neighbour on the left */
+
+                  for(int d=0; d< disparity_size_; d++)
+                  {
+                      left_scan[volPtr + d ] = (uint16_t)d_matching_cost[volPtr + d] ;
+
+                      // find current pixel min_left_scan and corresponding disparity D_min
+                      if(d == 0){
+                          minPre = left_scan[volPtr + d ];
+                          D_pre_min = 0;
+                      }
+                      else  if( left_scan[volPtr + d ]  < minPre)
+                       {
+                               minPre = left_scan[volPtr + d ] ;       // find the minimum  L(Pr-1,Di)
+                               D_pre_min = d ;                                     //  D_pre_min
+                      }
+                  }
+              }
+              else                // ----------- from second column to c-1 column ----------------------------------------------------------------------------------
+              {
+
+                      uint16_t minCurrent =  0 ;
+                      int  D_current_min = 0 ;
+
+                      for(int d=0; d< disparity_size_; d++ )
+                      {
+                          /* according to the previous neighbor's D_pre_min,applied penalty to current cost matching and update them */
+
+
+                          if (abs(d - D_pre_min) ==0 ) {
+
+                              // do nothing, no need to update matching cost function
+
+                              left_scan[volPtr + d]  =  (uint16_t)d_matching_cost[volPtr + d] ;
+
+                          } else if (abs(d - D_pre_min) ==1) {
+                              // applied p1 to current cost matching
+
+                              left_scan[volPtr + d] =  (uint16_t)d_matching_cost[volPtr + d] + PENALTY1;
+
+                          }else  if(abs(d - D_pre_min) >=2){
+                               // applied p2 to current cost matching
+                              left_scan[volPtr + d]  =  (uint16_t)d_matching_cost[volPtr + d] + PENALTY2;
+                          }
+
+                          // find current pixel min_left_scan and corresponding disparity D_min
+                          if(d == 0){
+                              minCurrent = left_scan[volPtr + d ];
+                              D_current_min = 0;
+                          }
+                          else  if( left_scan[volPtr + d ]  < minCurrent)
+                           {
+                                   minCurrent = left_scan[volPtr + d ] ;       // find the minimum  L(P,Di)
+                                   D_current_min = d ;                                     //  minCurrent
+                          }
+
+                      }
+
+                      //  save current min_D as the reference point for next column
+                      D_pre_min = D_current_min ;
+
+              }
+          }
+
+/*
+            for other path scan,
+            you can implement yourself to have some fun
+
+*/
+
+
+        // depth wise add
+        for( int r = 0 ; r < height ; r++)
+            for(int c=0; c< width ; c++)
+            {
+                    int volPtr = r * width * disparity_size_ + c * disparity_size_ ;
+                    for(int d=0; d< disparity_size_; d++)
+                    {
+//                        d_scost[volPtr + d ] =  left_scan[volPtr + d]  +  right_scan[volPtr + d] + top_scan[volPtr + d]  +  bottom_scan[volPtr + d]  + topleft_scan[volPtr + d] + topright_scan[volPtr + d] + bottomleft_scan[volPtr+d] + bottomright_scan[volPtr+d];
+                        d_scost[volPtr + d ] =  left_scan[volPtr + d]  ;   // +   top_scan[volPtr + d]    + topleft_scan[volPtr + d] + topright_scan[volPtr + d]  ;
+
+                    }
+            }
+
+        delete[]    left_scan         ;
+        delete[]    right_scan        ;
+        delete[]    top_scan          ;
+        delete[]    bottom_scan       ;
+        delete[]    topleft_scan      ;
+        delete[]    bottomleft_scan   ;
+        delete[]    topright_scan     ;
+        delete[]    bottomright_scan  ;
+
+
+}
+
 
 
 void scan_scost_cpu(const uint8_t* d_matching_cost, uint16_t* d_scost, int width, int height)
@@ -411,7 +596,9 @@ int main(int argc, char* argv[]) {
 
     matchingCost_cpu(CT_left,CT_right,H_matching_cost,left.cols,left.rows);
 
-    scan_scost_cpu(H_matching_cost,H_scan_cost,left.cols,left.rows) ;
+    scan_scost_cpu(H_matching_cost,H_scan_cost,left.cols,left.rows) ;   // according to original paper
+//    spacial_smooth_constrain_cpu(H_matching_cost,H_scan_cost,left.cols,left.rows) ;
+//    bypass_spacial_smooth_constrain_cpu(H_matching_cost,H_scan_cost,left.cols,left.rows) ;
 
     winner_takes_all_cpu(leftDisp,  rightDisp, H_scan_cost, left.cols,left.rows);
 
@@ -434,7 +621,7 @@ int main(int argc, char* argv[]) {
 
     cv::imshow("disparity_c",disparity_cpu * 4) ;
     cv::imshow("color_depth",genColorMapMat) ;
-	
+
      cv::waitKey(0);
 
 
