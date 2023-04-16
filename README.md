@@ -1,3 +1,11 @@
+# 
+
+- In this reporitory I share all of my design documents for my project 3D sensor from my startup company named 3Deepercept,from algrithm verification to verilog implementation on Xilinx Zynq 7020 device. with certain technique stereo vision 3D sensor can overcome the white all problem. The license is free !  在這個文件倉庫里，我分享了我創業公司3Deepercept(深圳市芯程視覺科技有限公司)的3D攝像頭的全部項目文檔，從算法驗證到verilog HDL在xilinx zynq 7020芯片上的實現。所有license皆免費。
+
+- I am still working on making a tutorial that aims to help people understand the code easily,hopefully after this tutorial you will get a sense of how to accelerate algorithms on FPGA. 爲了幫助理解其中的算法，以及給各位演示一下如何用FPGA加速機器視覺及深度學習的算法，我正在做一個與之相關的技術教程。
+
+# 
+
 # [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/ChatGPT_mindControl_dataset</sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset)
 
 ![alt text](./images/tutorialCover.png)
