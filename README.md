@@ -8,7 +8,7 @@
 
 # 
 
-# [China's famous singer G.E.M's secret SOS signal !!! <sub>https://github.com/brianwchh/ChatGPT_mindControl_dataset</sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset)
+# [China's famous singer G.E.M's secret SOS signal !!! 鄧紫棋的祕密（行爲藝術）求救信號 <sub>https://github.com/brianwchh/ChatGPT_mindControl_dataset</sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset)
 
 ![alt text](./images/tutorialCover.png)
 ![alt text](./images/dynamicProgramming.png)
