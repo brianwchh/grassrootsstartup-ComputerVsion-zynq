@@ -14,13 +14,15 @@ demo of disparity map according to left image
 
 # [China's famous singer G.E.M's secret SOS signal !!! 鄧紫棋的祕密（行爲藝術）求救信號 <sub>https://github.com/brianwchh/ChatGPT_mindControl_dataset</sub>](https://github.com/brianwchh/ChatGPT_mindControl_dataset)
 
+# [鄧紫棋解解的小說——2507抬上帝入天坑<sub>https://github.com/brianwchh/2507</sub>](https://github.com/brianwchh/2507)
+
+# [https://github.com/brianwchh/worldofheart_v2 <sub>https://github.com/brianwchh/worldofheart_v2</sub>](https://github.com/brianwchh/worldofheart_v2)
+
+
 ![alt text](./images/tutorialCover.png)
 ![alt text](./images/dynamicProgramming.png)
 ![alt text](./images/pathScan.png)
 ![alt text](./images/rectifyImage.png)
-
-
-
 
 ![alt text](./images/解說鄧紫棋的祕密-cover.png)
 
