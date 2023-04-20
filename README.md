@@ -5,6 +5,10 @@
 - I am still working on making a tutorial that aims to help people understand the code easily,hopefully after this tutorial you will get a sense of how to accelerate algorithms on FPGA. 爲了幫助理解其中的算法，以及給各位演示一下如何用FPGA加速機器視覺及深度學習的算法，我正在做一個與之相關的技術教程。
 
 - after this tutorial,you will be able to design a 3D sensor that is similar to Intel's Depth sensor named realsense. 通過此教程，你可以設計一個與Intel的realsense類似的產品。
+![alt text](./pics/ipblock.png)
+open-sourced Stereo IP block
+![alt text](./pics/demo0.png)
+demo of disparity map according to left image
 
 # 
 
@@ -14,7 +18,7 @@
 ![alt text](./images/dynamicProgramming.png)
 ![alt text](./images/pathScan.png)
 ![alt text](./images/rectifyImage.png)
-![alt text](./pics/demo0.png)
+
 
 
 
@@ -66,7 +70,7 @@
 ## episode 1 : video tutorial list
 https://youtube.com/playlist?list=PL4mHdDqV3T2uioDIKB7c27LtLq5Z4AETl
 
-![alt text](./pics/ipblock.png)
+
 
 ![alt text](./images/chainedGirls.jpg)
 
